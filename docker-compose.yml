@@ -2,8 +2,8 @@ version: "3"
 services:
   app:
     build: .
-    image: lib-logger:latest
-    container_name: lib-logger
+    image: lib-template:latest
+    container_name: lib-template
     restart: always
     volumes:
        - .:/app
