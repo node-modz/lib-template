@@ -1,0 +1,29 @@
+{
+  "name": "@node-modz/lib-template",
+  "version": "1.0.0",
+  "description": "template for node module",
+  "main": "./dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/node-modz/lib-template.git"
+  },
+  "keywords": [
+    "template",
+    "lib-template",
+    "node-modz"
+  ],
+  "author": "Wavelabs Team",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/node-modz/lib-template/issues"
+  },
+  "homepage": "https://github.com/node-modz/lib-template#readme",
+  "devDependencies": {
+    "@types/node": "^14.18.32"
+  },
+  "dependencies": {
+  }
+}
